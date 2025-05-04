@@ -1,1 +1,0 @@
-echo " uat2 userstatus.sql"

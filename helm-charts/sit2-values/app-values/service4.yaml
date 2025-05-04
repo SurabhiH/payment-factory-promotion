@@ -1,3 +1,0 @@
-namespace: sit2
-image: enterprise.quay.com/payments-factory/service4:6.0.0-b2-sit2
-image_tag: 6.0.0-b2-sit2

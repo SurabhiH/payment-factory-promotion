@@ -1,1 +1,0 @@
-echo " dev2 droponthefloor.sql"

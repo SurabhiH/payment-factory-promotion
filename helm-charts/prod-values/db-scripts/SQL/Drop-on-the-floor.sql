@@ -1,1 +1,0 @@
-echo " prod droponthefloor.sql"

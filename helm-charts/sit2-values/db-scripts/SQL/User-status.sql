@@ -1,1 +1,0 @@
-echo " sit2 userstatus.sql"

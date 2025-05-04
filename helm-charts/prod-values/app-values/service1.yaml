@@ -1,3 +1,0 @@
-namespace: prod
-image: enterprise.quay.com/payments-factory/service1:6.0.0-b12-prod
-image_tag: 6.0.0-b12-prod
